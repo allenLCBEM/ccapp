@@ -380,4 +380,12 @@ body {
     border: solid 2px #ddd;
 }
 
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.glyphicon {
+    color: #ddd;
+}
+
 
